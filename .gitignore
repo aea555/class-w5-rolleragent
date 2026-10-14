@@ -1,0 +1,26 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.slnx
+*.pidb
+*.userprefs
+.vscode/
+.DS_Store
+
+# Python / ML-Agents
+.venv/
+__pycache__/
+results/
+
+# ML-Agents çalışma zamanı dosyaları
+/Assets/ML-Agents/
+/Assets/ML-Agents.meta
+
+/Packages/packages-lock.json
